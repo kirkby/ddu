@@ -1,7 +1,8 @@
-# Rapportskabelon for 
+# Rapportskabelon for DDU
 
-## Formelle krav
-Formelle krav i stikordsform til rapportens indhold.
+## Formaliteter
+Her følger i stikordsform nogle formelle krav og venlige anbefalinger til rapportens indhold.
+
 ### Forside          
 Titel   
 Billede af produkt  
@@ -19,23 +20,26 @@ Fornuftig niveauinddeling
 Kapitler begynder på ny side  
  
 ## Formidling og form
-Det følgende er en huskeliste i stikordsform for rapportens indhold og formidling.
+Det følgende er en huskeliste i stikordsform for rapportens indhold. 
 
-### Formidling 
+### Formidling og form
 Brug: 
- - Korrekte fagtermer  
- - Videnskabelig retorik  
- - Konkrete eksempler
+ - Korrekte og præcise fagtermer  
+ - Sagligt, fagligt sprog
+ - Konkrete eksempler 
  - Relevante citater 
  - Oplysende illustrationer med forklaringer
 
 Alt sammen for at underbygge din argumention. 
+ 
+Brug ikke:
+ - værdiladede, personlige vurderinger eller synspunkter
 
-### Form
-Brug:
+Brug gerne:
  - korte introduktioner når du begynder nyt emne
  - korte afrundinger før du skifter emne
- - værdiladede, personlige vurderinger eller synspunkter
+ 
+For at hjælpe læseren.
 
 ### Kilder
 Husk: 

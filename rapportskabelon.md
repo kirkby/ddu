@@ -3,9 +3,9 @@
 ## Formelle krav
 Formelle krav i stikordsform til rapportens indhold.
 ### Forside          
-Titel 
+Titel   
 Billede af produkt  
-Navne, fag, årgang og skole 
+Navne, fag, årgang og skole   
  
 ### Titelblad  
 Fulde navne   
@@ -13,10 +13,10 @@ Skole, fag, årgang, vejleder
 Resume af opgaven   
 
 ### Opsætning 
-Interaktiv indholdsfortegnelse  
-Sidenummerering
-Fornuftig niveauinddeling
-Kapitler begynder på ny side
+Interaktiv indholdsfortegnelse    
+Sidenummerering  
+Fornuftig niveauinddeling  
+Kapitler begynder på ny side  
  
 ## Formidling og form
 Det følgende er en huskeliste i stikordsform for rapportens indhold og formidling.

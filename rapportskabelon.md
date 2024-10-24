@@ -4,14 +4,14 @@
 
 Som udgangspunkt indeholder en tekniksfagsrapport i DDU følgende kapitler:
 - [Projektbeskrivelse](#kapitel-projektbeskrivelse)  med problemformulering
-- [Problemanalyse](#problemanalyse)
+- [Problemanalyse](#kapitel-problemanalyse)
 - [Konceptudvikling](#kapitel-konceptudvikling)
 - [Forproduktion](#kapitel-forproduktion) (prototyping) 
 - [Implementering](#kapitel-implementering) 
 - [Test](#kapitel-test)
 - [Præsentation](#kapitel-præsentation)
 - [Konklusion og evaluering](#kapitel-konklusion-og-evaluering)
-- [Bilag](#kapitel-bilag)
+- [Bilag](#bilag)
 
 Disse kapitler svarer nogenlunde til produktudviklingens faser i en simpel verden.  
 Projektbeskrivelse &rarr; Konceptudvikling &rarr; Implementering &rarr; Test &rarr; Lancering   
@@ -131,6 +131,10 @@ Altså - analysen viste det og det, og det betyder at vi har valgt den og den l�
 
 ## Kapitel: Konceptudvikling
 I dette kapitel skal den beskrevne idé finpudses til et _koncept_. Det betyder groft sagt at man udarbejder og fastlægger på detajleniveau produktets endelig design, udformning og funktion. Hvis det er et brætspil eller et computerspil, fastlægges også hhv. reglerne og gameplayet.
+
+## Kapitel: Forproduktion
+Kaldes også Prototyper (prototyping).
+Beskrivelse følger.
 
 ## Kapitel: Implementering
 Beskrivelse følger.

@@ -1,24 +1,26 @@
 # Rapportskabelon for DDU
 
-**Indledning**. Forskellige produkter giver forskellige udviklingsforløb og dermed dokumentation. Der er forskel på at udarbejde en ren softwareløsning og en arduino-baseret robot som kan synge og danse.
+**Indledning**. Ikke to projekter er ens. Forskellige produkter giver forskellige udviklingsforløb. Der er naturligvis forskel på at udarbejde en app (software), en arduino-baseret robot eller en fuldautomatisk pantautomat. Det vil sige at denne skabelon tjener som inspiration og et solidt udgangspunkt - men man slipper ikke for at bruge sin egen sunde fornuft og kritiske sans.
 
-Som minimum bør rapporten indeholde følgende kapitler:
-- [Projektbeskrivelse](#projektbeskrivelse)  med problemformulering
-- [Konceptudvikling](#konceptudvikling)
-- [Implementering](#implementering) 
-- [Test](#test)
-- Præsentation
-- [Konklusion og evaluering](#konklusion-og-evaluering)
+Som udgangspunkt indeholder en tekniksfagsrapport i DDU følgende kapitler:
+- [Projektbeskrivelse](#kapitel-projektbeskrivelse)  med problemformulering
+- [Problemanalyse](#problemanalyse)
+- [Konceptudvikling](#kapitel-konceptudvikling)
+- [Forproduktion](#kapitel-forproduktion) (prototyping) 
+- [Implementering](#kapitel-implementering) 
+- [Test](#kapitel-test)
+- [Præsentation](#kapitel-præsentation)
+- [Konklusion og evaluering](#kapitel-konklusion-og-evaluering)
+- [Bilag](#kapitel-bilag)
 
 Disse kapitler svarer nogenlunde til produktudviklingens faser i en simpel verden.  
 Projektbeskrivelse &rarr; Konceptudvikling &rarr; Implementering &rarr; Test &rarr; Lancering   
 
-Afhængig af projektets kompleksitet kan man tilføje yderligere faser eller kapitler som 
-- [Problemanalyse](#problemanalyse)
-- Forproduktion (prototyping) 
+Det er som sagt _udgangspunktet_. 
+Afhængig af forløbets længde, projektets kompleksitet eller aftaler med læreren kan der afviges fra denne skabelon.
 
 Nedenfor beskrives rapportens udstyr og kapitler i den _anbefalede_ rækkefølge.  
-Husk at kapitler altid begynder en ny side.
+Husk at kapitler altid begynder på en ny side.
 
 ## Forsiden          
 Rapporten skal have en forside med   

@@ -146,7 +146,12 @@ Dette kapitel indeholder en visuel præsentation af det færdige produkt. Videoe
 Beskrivelse følger.
 
 ## Kapitel: Konklusion og evaluering
-Beskrivelse følger.
+I konklusionen skal man "vende tilbage". Man skal vende tilbage til forlægget (den stillede opgave), ens problemformuleringen og en evt. kravspecifikation og reflektere over "hvordan gik det så?".
+Kort sagt: 
+> reflekter over jeres resultater ved at forholde jer til udgangspunktet
+
+Udgangspunktet er som sagt opgaven, problemformuleringen, analysen, kravspecificationen osv.
+Resultaterne kender man fra test-kapitlet (så det det er vanskeligt at at skrive en troværdig konklusion hvis man ikke har nogle testresultater forholde sig til).
 
 ## Bilag
 Bilag er ikke kapitler og følger ikke den fortløbende nummerering.

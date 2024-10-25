@@ -154,5 +154,59 @@ Udgangspunktet er som sagt opgaven, problemformuleringen, analysen, kravspecific
 Resultaterne kender man fra test-kapitlet (så det det er vanskeligt at at skrive en troværdig konklusion hvis man ikke har nogle testresultater forholde sig til).
 
 ## Bilag
-Bilag er ikke kapitler og følger ikke den fortløbende nummerering.
-Mere beskrivelse følger.
+De enkelte bilag er normalt "nummereret" med store bogstaver, A, B, C osv.
+Ligesom kapitler begynder bilag øverst på en ny side.
+Det er vigtigt at beskrive hvad de enkelte bilag indeholder.   
+
+Eksempel:
+
+> BILAG A. Testdata
+> Her følger i fuld længde alle testresultater fra vores produkttest.
+> Testen blev udført den 10/10 af XX (observatør), YY (video) og ZZ (testleder) i lokale 73 på Slotshaven Gymnasium.
+
+I bilagene anbringes dokumentation der er for omfattende til at indgå i selve rapporten.  
+Eksempler kan være:   
+- kvalitative interviews
+- testresultater i fuldt omfang
+- kildekode
+- tekniske illustration og diagrammer i fuld størrelse
+
+# Appendix A. Gode råd om rapportskrivning
+Her følger i stikordsform nogle formelle krav og venlige anbefalinger til hvordan man skriver en god rapport i DDU.
+
+## Formidling og videnskabelighed
+Brug: 
+ - Korrekte og præcise fagtermer  
+ - Sagligt, fagligt sprog
+ - Konkrete eksempler 
+ - Relevante citater 
+ - Oplysende illustrationer med forklaringer
+
+Alt dette for at underbygge din argumention og gøre den troværdig. 
+ 
+Brug ikke:
+ - værdiladede, personlige vurderinger eller synspunkter
+
+Brug gerne:
+ - korte introduktioner når du begynder nyt emne
+ - korte afrundinger før du skifter emne
+
+For at hjælpe læseren.
+
+## Kilder
+Husk: 
+ - Referencer på alle teori, teser, påstande og argumenter 
+ - Kildehenvisninger på alt eksternt materiale  
+
+Det trækker ned _hver eneste gang_ man ikke gør det.
+
+## Korrekturlæsning
+God ide.
+
+En tekst der er korrekturlæst, har højere troværdighed.
+
+## Den iterative udvikling 
+Hvor er den iterative udvikling henne i dette? Det er vanskeligt at udtrykke den iterative udviklingproces i en rapportstruktur. Det er derfor vigtigt at man fremhæver og beskriver denne proces i sin dokumentation af projektet i de enkelte kapitler. 
+
+Det kan man fx gøre ved at dokumentere hvordan man undervejs har ændret sit design eller implementering efter et testfund har vist at den oprindelige løsning ikke virkede.  
+

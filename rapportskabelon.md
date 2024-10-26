@@ -210,3 +210,65 @@ Hvor er den iterative udvikling henne i dette? Det er vanskeligt at udtrykke den
 
 Det kan man fx gøre ved at dokumentere hvordan man undervejs har ændret sit design eller implementering efter et testfund har vist at den oprindelige løsning ikke virkede.  
 
+# Appendix B. Projektstyring og nedbrydning af opgaver
+Her følger et par noter om hvordan man beskriver og nedbryder opgaver.
+En opgave skal i det følgende forstås som det samme som et card i Trello.
+
+## Nedbrydning af opgaver
+Når man er færdig med sin projektbeskrivelse og problemformuleringen, har man i princippet den opgave der skal løses - nemlig "gør det som der står i beskrivelsen".
+
+Hvis man fx skulle lave et unity-spil og en tilhørende rapport, kunne man begynde med at opstille disse opgaver: 
+
+(1) Lav spil  
+(2) Skriv rapport
+
+Det er dog for bredt og løst og umuligt at arbejde med. Vi har brug for at at bryde den samlede opgave ned og identificere alle de delopgaver som "gemmer" sig i den samlede opgave.
+
+Så det man har brug for, når man begynder på et nyt projekt og forsøger at danne sig et overblik, er _opgavenedbrydning_. 
+
+Hvad vil det sige? Det vil sige at man forsøger at definere alle de _delopgaver_ som man kan identificere, man _nedbryder_ altså den store opgave i en række små opgaver. 
+Ideen kendes fra princippet om hvordan man spiser en elefant - hvilket ikke er så svært: "En bid ad gangen".
+
+Hvad er den rigtige størrelse på en opgave - hvordan nedbryder man? Her er et par forslag. 
+
+**Varighed.** Først og fremmest skal en opgave have en overskuelig varighed. 
+Den skal kunne løses indenfor et tidsrum hvis varighed kan estimeres nogenlunde.
+Jeg foretrækker en varighed på ca. 1-2 timer.
+
+**Kompleksitet.** 
+Følger snart.
+
+**Afgrænsning.** Opgaven skal optimalt set kunne løses uden at påvirke andre opgaver eller selv at være påvirket af andre opgaver - den skal være afgrænset. Har man fx at gøre med en to komponenter der kommunikerer, må opgaven kun påvirke den ene komponent. Består et system af flere subsystemer, må opgaven kun ligge i det ene subsystem. Subsystem er i øvrigt en oplagt kandidat for et label, fx "API", eller "Client".
+
+**Ejerskab.** Optimalt set skal en opgave naturligt ligge hos en ejer og ikke kræve flere personers samarbejde. En opgave kan dog sagtens sendes videre til en anden ejer hvis situationen kræver det.
+
+Der kan nævnes mange andre kriterier, men dette er en start.
+
+## Beskrivelse af opgaver
+
+Hvordan beskriver man en opgave? Her er nogle forslag.
+
+**Beskrivelse.** 
+Indhold. Hvad består opgaven i - hvad skal laves - giv kort præcis beskrivelse. 
+
+Kriterier. Hvis man er rigtig flittig, beskriver man også _Acceptance Criteria_. 
+Altså - hvornår kan opgaven siges at være færdig? 
+
+Test. Og tilsidst - hvordan tester man det. Beskrivelse - trin for trin - af de skridt som man skal tage for at afgøre om opgaven er færdig.
+
+**Kategori.** Oplagt kandidat til et label (#tag). Kategori kan være subsystem, komponent eller lignende.
+Eksempler på kategorier: Database, Kode, Frontend, Interaktion, Rapport, Test osv. 
+
+**Ejer.** Hvem skal løse opgaven?
+
+**Estimat.** Hvor lang tid tager opgaven? 
+
+**Vigtighed.** Need-to-have, Nice-to-have, MVP osv. Oplagt kandidat til et label.
+
+
+
+
+
+
+
+

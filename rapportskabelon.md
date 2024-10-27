@@ -140,18 +140,18 @@ Beskrivelse følger.
 Beskrivelse følger.
 
 ## Kapitel: Præsentation 
-Dette kapitel indeholder en visuel præsentation af det færdige produkt. Videoer kan inddrages (kort og redigerede!).
+Dette kapitel indeholder en visuel præsentation af det færdige produkt. Videoer kan inddrages (hvis de er klippede og redigerede!).
 
 ## Kapitel: Test
 Beskrivelse følger.
 
 ## Kapitel: Konklusion og evaluering
-I konklusionen skal man "vende tilbage". Man skal vende tilbage til forlægget (den stillede opgave), ens problemformuleringen og en evt. kravspecifikation og reflektere over "hvordan gik det så?".
+I konklusionen skal man "vende tilbage". Man skal vende tilbage til forlægget (den stillede opgave), problemformuleringen og en evt. kravspecifikation og reflektere over "hvordan gik det så?".
 Kort sagt: 
 > reflekter over jeres resultater ved at forholde jer til udgangspunktet
 
 Udgangspunktet er som sagt opgaven, problemformuleringen, analysen, kravspecificationen osv.
-Resultaterne kender man fra test-kapitlet (så det det er vanskeligt at at skrive en troværdig konklusion hvis man ikke har nogle testresultater forholde sig til).
+Her kommer testresultaterne i spil. For alt andet end meget trivielle systemer er det vanskeligt at skrive en troværdig konklusion hvis man ikke har nogle testresultater til at understøtte sine konklusioner med. Det er som regel ikke nok at skrive at "det virkede som forventet". Konklusioner skal som udgangspunkt baseres på en metodisk, systematisk afprøvning eller test.
 
 ## Bilag
 De enkelte bilag er normalt "nummereret" med store bogstaver, A, B, C osv.
@@ -161,8 +161,9 @@ Det er vigtigt at beskrive hvad de enkelte bilag indeholder.
 Eksempel:
 
 > BILAG A. Testdata
-> Her følger i fuld længde alle testresultater fra vores produkttest.
+> Her følger i fuld længde alle testresultater fra vores produkttest.  
 > Testen blev udført den 10/10 af XX (observatør), YY (video) og ZZ (testleder) i lokale 73 på Slotshaven Gymnasium.
+> Testpersoner var 10 tilfældigt udvalgte elever fra 2.g.
 
 I bilagene anbringes dokumentation der er for omfattende til at indgå i selve rapporten.  
 Eksempler kan være:   
@@ -171,7 +172,7 @@ Eksempler kan være:
 - kildekode
 - tekniske illustration og diagrammer i fuld størrelse
 
-# Appendix A. Gode råd om rapportskrivning
+# Appendiks A. Gode råd om rapportskrivning
 Her følger i stikordsform nogle formelle krav og venlige anbefalinger til hvordan man skriver en god rapport i DDU.
 
 ## Formidling og videnskabelighed
@@ -210,7 +211,7 @@ Hvor er den iterative udvikling henne i dette? Det er vanskeligt at udtrykke den
 
 Det kan man fx gøre ved at dokumentere hvordan man undervejs har ændret sit design eller implementering efter et testfund har vist at den oprindelige løsning ikke virkede.  
 
-# Appendix B. Projektstyring og nedbrydning af opgaver
+# Appendiks B. Projektstyring og nedbrydning af opgaver
 Her følger et par noter om hvordan man beskriver og nedbryder opgaver.
 En opgave skal i det følgende forstås som det samme som et card i Trello.
 

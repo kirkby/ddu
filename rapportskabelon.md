@@ -114,6 +114,10 @@ De tager udgangspunkt i projektbeskrivelsen og problemformuleringen og _nedbryde
 
 Termen "teknisk" skal forstås bredt - det betyder i denne sammenhæng først og fremmest at der lægges vægt på en videnskabelig, faktabaseret analyse af disse spørgsmål. Så i den henseende kan et teknisk spørgsmål sagtens handle om målgrupper eller interaktiondesign.  
 
+### Afgrænsning
+I afgrænsningen kan man på forhånd afgrænse sit problemfelt. Det er nogle gange nødvendigt at forsimple den virkelighed som man forholder sig til. Dette afsnit tillader gruppen at definere visse aspekter af problemfeltet som man ikke vil arbejde med eller inddrage i sit projekt.  
+Eksempel: Man vil lave et spil med en topscorerliste, men man har i første omgang ikke planer om at implementere multi-player mode. Så topscorerlisten viser altid den samme spiller.
+
 ## Kapitel: Problemanalyse
 I problemanalysen analyseres de opstillede spørgsmål fra projektbeskrivelsen.
 Det nemmeste er at behandle hvert spørgsmål i sit eget afsnit eller underkapitel.

@@ -106,13 +106,19 @@ En typisk problemformulering er på formen
 Ovenstående eksempel tjener selvfølgelig kun som inspiration. Den skal ikke kopieres 1:1.
 
 ### Tekniske spørgsmål
-Herefter opstiller man en række spørgsmål som skal besvares for at opgaven kan løses, de såkaldte tekniske underspørgsmål.
+Herefter opstiller man en række spørgsmål, de såkaldte tekniske spørgsmål eller underspørgsmålene.
 
-De tekniske spørgsmål skal identificere de tekniske udfordringer som skal løses hvis produktet skal komme i mål. 
+De tekniske spørgsmål skal belyse de tekniske udfordringer som skal løses hvis produktet skal komme i mål. 
 
 De tager udgangspunkt i projektbeskrivelsen og problemformuleringen og _nedbryder_ disse i helt konkrete problemstillinger.  
 
-Termen "teknisk" skal forstås bredt - det betyder i denne sammenhæng først og fremmest at der lægges vægt på en videnskabelig, faktabaseret analyse af disse spørgsmål. Så i den henseende kan et teknisk spørgsmål sagtens handle om målgrupper eller interaktiondesign.  
+De begynder gerne med et "Hvordan ...".  Eksempel: 
+
+> "Hvordan kan man anvende protokol X til at kommunikere mellem Y og Z".
+
+Termen "teknisk" skal forstås bredt - det betyder i denne sammenhæng først og fremmest at der lægges vægt på en videnskabelig, faktabaseret analyse af disse spørgsmål. Så i den henseende kan et teknisk spørgsmål sagtens handle om målgrupper eller interaktiondesign. 
+
+
 
 ### Afgrænsning
 I afgrænsningen kan man på forhånd afgrænse sit problemfelt. Det er nogle gange nødvendigt at forsimple den virkelighed som man forholder sig til. Dette afsnit tillader gruppen at definere visse aspekter af problemfeltet som man ikke vil arbejde med eller inddrage i sit projekt.  

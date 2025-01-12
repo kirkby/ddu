@@ -1,0 +1,9 @@
+# .gitignore
+
+# Virtual environments
+venv/
+venv311/
+env/
+ENV/
+.venv/
+.ENV/

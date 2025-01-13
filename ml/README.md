@@ -1,12 +1,22 @@
 # Teachable Machine
 
+## 
+**tm.html**
+Runs a tensorFlow.js model which has been exported from Teachable Machine.
+Configuration is required:
+```
+const URL = '{{URL}}';
+```
+URL is supplied when uploading model hosted service, similar to https://teachablemachine.withgoogle.com/models/{TOKEN}
+
 
 ## Demo
 **demo.py**
 Runs a TensorFlow model which has been exported from Teachable Machine.
+Required files are keras_model.h5 and labels.txt.
 
-Runs in a virtual environment based with python 3.11.
-Should be tested on newer versions of python.
+Runs in virtual environments based on python 3.11/3.12.
+There is currently no TensorFlow version compatible with 3.13.
 
 ## Contributions
 

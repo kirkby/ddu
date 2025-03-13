@@ -22,7 +22,7 @@ Det er som sagt _udgangspunktet_.
 Afhængig af forløbets længde, projektets kompleksitet eller aftaler med læreren kan der afviges fra denne skabelon.
 
 Nedenfor beskrives rapportens udstyr og kapitler i den _anbefalede_ rækkefølge.  
-Husk at kapitler altid begynder på en ny side.
+:information_source: Husk at kapitler altid begynder på en ny side med en niveau 1-overskrift.
 
 ## Forsiden          
 Rapporten skal have en forside med   
@@ -209,6 +209,10 @@ I den sidste del, evalueringen, diskuterer man resultaterne.
 
 Har man gennemført kvalitative interviews, vil uddrag og citater af signifikante pointer vil forventet. 
 Har man et talmateriale, opsummeres tallene på relevant vis. 
+
+Kort sagt, data analyseres og diskuteres og vigtige fund og pointer fremhæves. 
+
+Testkapitlet afrundes med en opsummering.
 
 ## Kapitel: Konklusion og evaluering
 I konklusionen skal man "vende tilbage". Man skal vende tilbage til forlægget (den stillede opgave), problemformuleringen og en evt. kravspecifikation og reflektere over "hvordan gik det så?".

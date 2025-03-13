@@ -182,8 +182,16 @@ Hvis produktet er tænkt anvendt i en specifik brugsammenhæng eller på en spec
 
 ## Kapitel: Test
 Test-kapitlet handler kort sagt om at beskrive sine _fund_. Et fund er en observation, der indeholder en overraskende, uventet eller illustrativ pointe. 
-Det er forholdsvist uinteressant, hvis konklusionen munder ud i at alle testpersoner havde en forventelig adfærd og var meget tilfredse med produktet.
-Det er stærk indikator på at testen ikke er grundigt udført, eller udført med de forkerte metoder.
+
+Det er forholdsvist uinteressant, hvis konklusionen munder ud i at alle testpersoner havde en forventelig adfærd og var meget tilfredse med produktet. Det er stærk indikator på at testen ikke er grundigt udført, eller udført med de forkerte metoder.
+
+Taldata og rådata placeres i bilagene i et læsevenligt format. 
+
+Hvis testmaterialet inkluderer video, kan man repræsentere den med et skærmbillede. Videoer skal selvfølgelig redigeres og kun indeholde relevante scener. Det er en god ide at udvælge fx tre fund og fremhæve dem med indlagt tekst eller tale. Har man optaget en spiltest eller et interview, vil en redigeret version af videoen være interessant. 
+
+Hold videoer korte som udgangspunkt. Anbring en henvisning til videoens online-adresse i bilagene. 
+
+~ * ~
 
 Test skal forberedes før den udføres. Dette kapitel kan derfor med fordel struktures i tre dele: forberedelse, udførelse og evaluering.
 
@@ -201,16 +209,6 @@ I den sidste del, evalueringen, diskuterer man resultaterne.
 
 Har man gennemført kvalitative interviews, vil uddrag og citater af signifikante pointer vil forventet. 
 Har man et talmateriale, opsummeres tallene på relevant vis. 
-
-### Bilag
-Alle data skal bearbejdes og formidles. Det er sjældent relevant med de ubearbejdede rådata, heller ikke i bilagene. 
-Dog må man selvfølgelig ikke sortere eller filtrere data uden god grund.
-
-Videoer skal redigeres og kun indeholde relevante scener. Find evt. tre fund og fremhæv dem med indlagt tekst eller tale.
-
-Har man optaget en spiltest, vil en redigeret version af videoen være interessant - anbring link til videoen i bilagene. Hold den kort.
-
-Taldata placeres i bilagene. 
 
 ## Kapitel: Konklusion og evaluering
 I konklusionen skal man "vende tilbage". Man skal vende tilbage til forlægget (den stillede opgave), problemformuleringen og en evt. kravspecifikation og reflektere over "hvordan gik det så?".

@@ -297,16 +297,28 @@ Det er dog for bredt og løst og umuligt at arbejde med. Vi har brug for at at b
 Så det man har brug for, når man begynder på et nyt projekt og forsøger at danne sig et overblik, er _opgavenedbrydning_. 
 
 Hvad vil det sige? Det vil sige at man forsøger at definere alle de _delopgaver_ som man kan identificere, man _nedbryder_ altså den store opgave i en række små opgaver. 
-Ideen kendes fra princippet om hvordan man spiser en elefant - hvilket ikke er så svært: "En bid ad gangen".
+Ideen kendes fra princippet om hvordan man spiser en elefant - hvilket ikke er så svært: "En bid ad gangen". M
 
-Hvad er den rigtige størrelse på en opgave - hvordan nedbryder man? Her er et par forslag. 
+Opgavenedbrydning har en række fordele. Efter nedbrydning kan opgaverne:
+
+- beskrives
+- estimeres 
+- prioriteres
+- kategoriseres
+- tidsfæstes (tildeles en tidsfrist)
+- uddelegeres (tildeles en ejer)
+- annoteres (tildeles attributter)
+
+:information_source: Alle de nævnte handlinger understøttes af gængse projektstyringsværktøjer af en vis kvalitet.
+
+Hvad er det optimale omfang på en opgave - hvordan nedbryder man? Her er et par forslag. 
 
 **Varighed.** Først og fremmest skal en opgave have en overskuelig varighed. 
 Den skal kunne løses indenfor et tidsrum hvis varighed kan estimeres nogenlunde.
 Jeg foretrækker en varighed på ca. 1-2 timer.
 
 **Kompleksitet.** 
-Følger snart.
+Kompleksitet er udviklerens værste fjende. Kan man opdele en kompleks algoritme i tre separate dele, er den samlede kompleksitet af delene på magisk vis mindre end helhedens. 1 + 1 + 1 er ikke altid 3. Kan man bevidst forsimple en problemstilling? Det er nemmere at arbejde med 22/7 end &#x03C0;.
 
 **Afgrænsning.** Opgaven skal optimalt set kunne løses uden at påvirke andre opgaver eller selv at være påvirket af andre opgaver - den skal være afgrænset. Har man fx at gøre med en to komponenter der kommunikerer, må opgaven kun påvirke den ene komponent. Består et system af flere subsystemer, må opgaven kun ligge i det ene subsystem. Subsystem er i øvrigt en oplagt kandidat for et label, fx "API", eller "Client".
 
@@ -315,7 +327,6 @@ Følger snart.
 Der kan nævnes mange andre kriterier, men dette er en start.
 
 ## Beskrivelse af opgaver
-
 Hvordan beskriver man en opgave? Her er nogle forslag.
 
 **Beskrivelse.** 

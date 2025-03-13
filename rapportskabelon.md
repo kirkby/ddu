@@ -1,3 +1,5 @@
+![Slotshaven logo](img/slotshaven-logo.png)
+
 # Rapportskabelon for DDU
 
 **Indledning**. Ikke to projekter er ens. Forskellige produkter giver forskellige udviklingsforløb. Der er naturligvis forskel på at udarbejde en app (software), en arduino-baseret robot eller en fuldautomatisk pantautomat. Det vil sige at denne skabelon tjener som inspiration og et solidt udgangspunkt - men man slipper ikke for at bruge sin egen sunde fornuft og kritiske sans.
@@ -137,23 +139,78 @@ Den _samlede_ problemanalyse rundes af med en sammenfatning af alle delkonklusio
 
 Denne sammenfatning beskriver overordnet _konsekvenserne_ af analyseresultaterne - hvilken betydning har de for teknologivalget/produktet/implementeringen osv. 
 
-Altså - analysen viste det og det, og det betyder at vi har valgt den og den løsning.
+Ergo: analysen viste det og det, og det betyder at vi har valgt den og den løsning.
 
 ## Kapitel: Konceptudvikling
-I dette kapitel skal den beskrevne idé finpudses til et _koncept_. Det betyder groft sagt at man udarbejder og fastlægger på detajleniveau produktets endelig design, udformning og funktion. Hvis det er et brætspil eller et computerspil, fastlægges også hhv. reglerne og gameplayet.
+I dette kapitel skal den beskrevne idé finpudses til et _koncept_. Det betyder groft sagt at man udarbejder og fastlægger på detajleniveau produktets endelig design, udformning og funktion. Hvis det er et brætspil eller et computerspil fastlægges også hhv. reglerne og gameplayet.
+
+Slutproduktet kan være moodboards, designmanualer, regelbeskrivelser, detaljerede gameplays, salgs- eller konceptsvideoer, use cases.
 
 ## Kapitel: Forproduktion
 Kaldes også Prototyper (prototyping).
-Beskrivelse følger.
+Nu beskrives det forberedende arbejde inden man går i gang med implementering eller produktion. Denne fase handler om at skitsere og designe og planlægge.  Indholdet er i vid udstrækning afhængig af det produktets karakter. 
+
+**Software**. Programmets struktur og virkemåde fastlægges med flowcharts, strukturdiagrammer, pseudokode, E/R-diagrammer, swimlanes osv.
+
+**Fysiske artifakter**. Der udarbejdes målfaste tekniske tegninger, plantegninger, 3D-modeller.
+For fysiske artikfakter gælder det at de krævede materialer beskrives i en _stykliste_. Styklisten viser i _tabelform_ materiale, mål, omfang, antal. Styklisten skal kunne bruges at bestille de nødvendige varer hjem.
+
+**Prototyper**. De første prototyper udarbejdes. Man bruger de forhåndenværende materialer til de første udkast. Kasser kan bygges af pap eller papir. Man kan nå langt med limstifter, gaffa, piberensere, clips osv. Prototypen skal give et første indtryk som den videre udvikling kan basere sig på. Prototypens håndgribelighed hjælper med at stimulere diskussionen om den endelige udformning og gøre det muligt at afprøve produktet. 
 
 ## Kapitel: Implementering
-Beskrivelse følger.
+Igen skelnes der mellem fysiske og digitale produkter. 
+
+Med **fysiske** produkter dokumenteres byggefasen grundigt - derfor er dette kapitel ofte billedtungt.
+Ofte vil man rende ind forskellige uforudsete problemer - og det er interessant og skal dokumenteres. Hvad lærte man af det? Hvilke ændringer forårsagede det? 
+
+**Kode** bliver hurtigt indviklet og kedeligt at beskrive, så her finder man fatte sig i korthed. Udvælg et eller to væsentlige og relevante aspekter af den samlede løsning og gå i dybden med dem. Man kunne i den første del stille skarpt på programmets overordnede arkitektur, og så zoome ind på en central algoritme i den næste del. På den måde viser man både overblik og detaljekendskab. 
+
+Undgå skærmbilleder af diaglogbokse og konfigurationvinduer - de indeholder meget lidt information for læseren.
+
+Formatering af kode. Gør læseren den tjeneste at indsætte koden som *tekst*. Undgå klodsede skærmbilleder af kode i dark theme. 
+Lav en typografi som anvendes til kode - det bliver man glad for i længden.
+Som i markdown, eksempel:
+```python
+1. # Create list with list comprehension
+2. squares = [x**2 for x in range(10)]
+```
 
 ## Kapitel: Præsentation 
-Dette kapitel indeholder en visuel præsentation af det færdige produkt. Videoer kan inddrages (hvis de er klippede og redigerede!).
+Dette korte kapitel indeholder en visuel præsentation af det færdige produkt. Videoer kan inddrages - under forudsætning af at de klippede og redigerede!
+
+Hvis produktet er tænkt anvendt i en specifik brugsammenhæng eller på en specifik placering, så placer produktet der så det fremstår i en realistisk kontekst. 
 
 ## Kapitel: Test
-Beskrivelse følger.
+Test-kapitlet handler kort sagt om at beskrive sine _fund_. Et fund er en observation, der indeholder en overraskende, uventet eller illustrativ pointe. 
+Det er forholdsvist uinteressant, hvis konklusionen munder ud i at alle testpersoner havde en forventelig adfærd og var meget tilfredse med produktet.
+Det er stærk indikator på at testen ikke er grundigt udført, eller udført med de forkerte metoder.
+
+Test skal forberedes før den udføres. Dette kapitel kan derfor med fordel struktures i tre dele: forberedelse, udførelse og evaluering.
+
+### Forberedelse
+I den første del, forberedelsen, redegører for sine overvejelser og begrunder sine valg. Det skal fremgå hvilke testmetoder man anvender og hvorfor. Det er altså en god ide at redegøre for egenskaber, fordele og ulemper ved forskellige testmetoder og på den baggrund begrunde sine valg. 
+
+Dernæst beskriver man den praktiske udvælgelse af testsubjekter og den praktiske gennemførsel af testen, herunder gruppemedlemmernes rolle i afviklingen. 
+Det forventes, at sammenhængen mellem en eventuel målgruppe og gruppen af testpersoner belyses.
+
+### Udførelse
+I næste afsnit, udførelsen, dokumenteres afviklingen af testen. Her afhænger meget af testform. 
+
+### Evaluering
+I den sidste del, evalueringen, diskuterer man resultaterne. 
+
+Har man gennemført kvalitative interviews, vil uddrag og citater af signifikante pointer vil forventet. 
+Har man et talmateriale, opsummeres tallene på relevant vis. 
+
+### Bilag
+Alle data skal bearbejdes og formidles. Det er sjældent relevant med de ubearbejdede rådata, heller ikke i bilagene. 
+Dog må man selvfølgelig ikke sortere eller filtrere data uden god grund.
+
+Videoer skal redigeres og kun indeholde relevante scener. Find evt. tre fund og fremhæv dem med indlagt tekst eller tale.
+
+Har man optaget en spiltest, vil en redigeret version af videoen være interessant - anbring link til videoen i bilagene. Hold den kort.
+
+Taldata placeres i bilagene. 
 
 ## Kapitel: Konklusion og evaluering
 I konklusionen skal man "vende tilbage". Man skal vende tilbage til forlægget (den stillede opgave), problemformuleringen og en evt. kravspecifikation og reflektere over "hvordan gik det så?".

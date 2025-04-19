@@ -1,5 +1,4 @@
 import requests
-import time
 
 API_URL = "http://localhost:8080/update"
 requests.post(API_URL, json={"status": False})
